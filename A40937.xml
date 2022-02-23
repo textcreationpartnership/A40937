@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A loving salutation with several seasonable exhortations contained in two general epistles sent unto all the saints and persecuted people of God in the houshold [sic] of faith to be red [sic] among them before they be banished as bond-men and bond-women out of the land of their nativity for their religion and righteousness sake.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40937</idno>
+            <idno type="STC">Wing F491</idno>
+            <idno type="STC">ESTC R16033</idno>
+            <idno type="EEBO-CITATION">13031599</idno>
+            <idno type="OCLC">ocm 13031599</idno>
+            <idno type="VID">96763</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A loving salutation with several seasonable exhortations contained in two general epistles sent unto all the saints and persecuted people of God in the houshold [sic] of faith to be red [sic] among them before they be banished as bond-men and bond-women out of the land of their nativity for their religion and righteousness sake.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+                  <author>Salthouse, Thomas, 1630-1691.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first epistle is signed: "R.F." [Richard Farnworth] and the second "Thomas Salthouse".</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Epistles --  17th century.</term>
+               <term>Devotional literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96763:1"/>
+            <pb facs="tcp:96763:1" rendition="simple:additions"/>
+            <p>A Loving SALUTATION With Several Seaſonable Exhortations Contained in two General Epiſtles Sent unto all The Saints and Perſecuted People of God in the houſhold of Faith to be red among them before they be baniſhed as Bond-men &amp; Bond-women out of the Land of their nativity for their Religion and Righteouſneſs ſake.</p>
+            <q>Bleſſed are yee when Men revile you and perſecute you and ſay all manner of evil againſt you falſly for my name ſake, Rejoyce and be exceeding glad, for great is your reward in Heaven, for ſo perſecuted they the Prophets that were before you. <hi>Matthew 5.11, 12.</hi> They wandred in Sheep Skins and Goat Skins in Deſarts, in Mountains, in Dens, and Caves, and Holes of the Earth, for their God hath prepared for them a City. <bibl>
+                  <hi>Heb. 11.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:96763:2"/>
+            <pb n="1" facs="tcp:96763:2" rendition="simple:additions"/>
+            <head>A Loving Salutation, &amp;c.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>WHom I dearly love, and not I only, but the Lord alſo, whoſe love is largely manifeſted unto you, and whoſe Fatherly care is over you all, dwell together in a ſpi<g ref="char:EOLhyphen"/>ritual communion, that yee may be partakers of the Tree of Life, and feed of the hidden Manna come down from Hea<g ref="char:EOLhyphen"/>ven, as you ſit together at the Table of the Lord; who are admit<g ref="char:EOLhyphen"/>ted as well as invited to come unto him, who eaſeth the weary hearted, and overcharged in Spirit by giving of his ſtrength unto them to eaſe them that are both weary and heavy laden; for in him the weary finde reſt, peace and eaſe, who are returned out of the way and ſpirit of the World, and are entred into, and entertained of God, who filleth the hungry Soul with good things, when he ſendeth the Rich (wiſe ſelf conceited ones) empty away, and lets them not taſt of his Eternal virtue and ſweetneſs, it was <hi>David</hi> that taſted of the virtue and ſweetneſs of God, who was of the Seed of Faith, when his heart was fixed upon God then it indited that which was good, and meditated upon the Law of God, who taſted of the ſwitneſs of the Eternal Word and power of God, and <hi>David</hi> had received a ſpirit of Faith or power of believing whereby he gave Teſtimony to the Truth, and bore witneſs for God, for he ſaid I believed, and therefore I ſpake, and the <hi>Davids</hi> of God or true <hi>Iſraelites</hi> after the Spirit, have declared of the goodneſs of God, which they have taſted of; who had taſted how good and gracious the Lord was, as now he is unto us, who are of the Seed of Election, and in their Declarations they related unto <hi>David,</hi> and ſaid of him, I believed and therefore I ſpake, and concerning themſelves who were of the Seed of Faith, they ſaid, we having received the ſame Spirit of Faith as <hi>David</hi> did receive of the Law, we believe, and therefore we ſpeak or bare witneſs for God, and it was given them on the behalf of Chriſt Jeſus, not only to be<g ref="char:EOLhyphen"/>lieve on him, but alſo to ſuffer for his Names ſake, and ſo its now given to us, the true Spiritual <hi>Iſraelites</hi> who are of the Seed of <hi>A<g ref="char:EOLhyphen"/>braham</hi>
+               <pb n="2" facs="tcp:96763:3"/>which is the Seed of Faith, who have received the Spirit of Faith, or power of believing to carry us forth to give Teſtimo<g ref="char:EOLhyphen"/>ny to the Truth, and ſpeak on the behalf of the Lord, not only to believe on Chriſt Jeſus, but alſo to ſuffer for Righteouſneſs ſake, and as none can believe to Salvation, but they who are of the ſeed of Faith, which is the ſeed of Election, to whom the Spirit of Faith is given, ſo none can ſtand in a trying time, to endure to the end in every trial that attendeth them under a ſuffering condition, but them to whom eternal life is given, for its given to them that ſuffer, to whom the ſpirit of Faith is given, ſo that the ſeed of faith is attended with ſufferings, for the ſeed of Faith is that which doth the will of God with delight, and therefore God grants unto it the deſire of its heart, and it endureth for ever, becauſe they who are of the ſeed of faith are they that do the will of God, power is gi<g ref="char:EOLhyphen"/>ven unto them to do, or to ſuffer according to his good wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and pleaſure, and they are known to be of the ſeed of Faith, and Chriſts true and loving friends, becauſe they abide in his Spirit, love one another and obey his commands, and becauſe they who are of the ſeed of Election, which is the ſeed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Faith, do receive the ſpirit of faith to believe on Chriſt, and be obedient unto him, therefore are they attended with a ſuffering condition, and ſuch are the ſheep of Chriſt who are of the ſeed of faith, and he giveth to them eternal life which is a mark of Chriſt ſet upon his ſheep, or character that they ſhall never periſh. Oh my dear Friends who are of the ſeed of <hi>Abraham</hi> after the Spirit, you have received the ſpirit of Faith, which God gives to them that are of that ſeed, and becauſe they are true Believers you are true ſubjects unto Chriſt, and becauſe you cannot deny the faith of Gods elect, which purgeth and purifieth your hearts, nor withhold your obedience, but do love the truth, and give your obedience to the ſpirit and power of Chriſt Jeſus. Therefore you are hated without a cauſe, and perſecuted by the Spirit of the World, becauſe your Mother is not Jeruſalem from be<g ref="char:EOLhyphen"/>neath, but Jeruſalem from above, which is the mother of us all that are of the ſeed of Election, which is the ſeed that is appointed and ordained of God to inherit the Kingdom of Heaven; to you its gi<g ref="char:EOLhyphen"/>ven to know the myſteryes of the Kingdom, but to others in Para<g ref="char:EOLhyphen"/>bles, that hearing they might hear and not underſtand, and ſeeing they might ſee and not perceive, leaſt at any time they be converted and healed. So though many hear the everlaſting Goſpel preached,
+<pb n="3" facs="tcp:96763:3"/>yet the ſeed of Faith are the receivers thereof into a good ground and right underſtanding, and thoſe Divine Myſteries or glorious Truths are made plain unto them, which others underſtand not, to whom the gift of underſtanding is not given, who are Sons of the Bondwoman, and live after the fleſh, to whom the Divine Truths are as Parables, and though they may ſee what a great work of Re<g ref="char:EOLhyphen"/>formation is wrought in the Nation, yet they perceive not the mind of the Lord, nor receive not the people of God in whom that work is wrought, but reject them, and caſt them out, as it was then, ſo it is now; he that was born of the fleſh, perſecuted him that was born after the Spirit, whereby it is evident that the Regenerate are not perſecutors, nor ever were ſuch in any age that we read of, but they were and are perſecuted, and that by the degenerate and ſuch as live after the fleſh who daily erre and go aſtray from the wayes of God, and are perſecutors of them who are born of water and the ſpirit, who live a new life in Chriſt Jeſus. Therefore all you that live in the ſpirit, walk in the Spirit, &amp; be not deſirous of vain glory, for the glory of the World is but vain glory, and why ſhould it be deſired, or at all ſought after by them that are entered into the Spirit of God, which is a Spirit of an exceeding and eternal weight of glory far exceeding that of the World, and provoke not one another, ex<g ref="char:EOLhyphen"/>cept to love and good works, nor envy one another, but be all at peace amongſt yourſelves, and with all Men as much as in you ly<g ref="char:EOLhyphen"/>eth, and let the peace of God rule in your hearts, and let the word of God dwell plentifully in you, and the God of peace and love will be with you, and will delight to do you good, becauſe you are of the Seed of Faith, and have received the Spirit of Faith, you are received into Covenant with God, and have taſted of the milk of the Word, which is the virtue of God. Therefore as New-born Babes or Regenerate, and Children of God deſire the ſincere milk of the Word, which is the virtue and ſweetneſs of God, that yee may grow thereby, ſeeing you have taſted how good and gracious the Lord God is, who hath opened your underſtandings and poured forth of his Spirit upon you, and ſhed abroad his Hea<g ref="char:EOLhyphen"/>venly overcoming love in your hearts. Oh therefore love the Lord above all, and love your Neighbour as your ſelf, for love is the fulfiling of the Law, and love thinketh no evil to any Man. Owe therefore nothing to any Man but love. All dear friends dwell in the love of God, then you will not only love one another but ene<g ref="char:EOLhyphen"/>mies
+<pb n="4" facs="tcp:96763:4"/>alſo, for the love of God extendeth to enemies, he loved us before we loved him, yea he loved us whileſt we were enemies to him, he ſo loved the World that he gave his only begotten Son into the World, that whoſoever believeth in him might not periſh but have everlaſting Life, the Love of God was the moving cauſe of ſending his Son Chriſt Jeſus into the World, the comming of the Son of God into the World was the manifeſta<g ref="char:EOLhyphen"/>tion of the Fathers Love, or to manifeſt the Love of God unto the World, and they who received Chriſt Jeſus, as him whom the Father ſent for ſalvation, they manifeſted their Love unto God by believing in him, and being obedient to his heavenly Doctrin, and as many as received him, to them he gave power to become the Sons of God, ſo that the receivers of Chriſt are the true believers, who believe to ſalvation, and are impowered by the Eternal power of God regenerated and born of God, and are the Children and Heires of God, and theſe are of the ſeed of Faith, who have received power of God, and by Faith doe come unto God; and alſo by Faith doe offer an acceptable Sacrifice, which is well pleaſing to God, for he that cometh unto God muſt believe: So that there is no coming unto God without Faith, without Faith it's impo<g ref="char:EOLhyphen"/>ſible to pleaſe God, ſo that the inſidel and unbeliever cannot pleaſe God, or approath unto him, though ſuch pretend to be worſhip<g ref="char:EOLhyphen"/>ped of him. <hi>Abel</hi> was of the ſeed of Faith, having received the Spirit of Faith, or power of believing, he did by vertue of his Faith offer a more acceptable and excellent Sacrifice then <hi>Cain: Cain</hi> was of a wicked blood-thirſty nature, and yet he had a kinde of religion, and would have been accepted, but God did not ac<g ref="char:EOLhyphen"/>cept of his offering, becauſe he was in evil doing: For (ſaid the Lord unto him) if thou hadſt done well thou hadſt been accepted, but becauſe thou haſt don evil, ſin lyeth at the door, and the Apoſtle ſaid in his time, take heed leaſt there be a <hi>Cain</hi> amongſt you: Oh my Friends take heed that the Nature and Spirit of <hi>Cain</hi> (which is the Nature and Spirit of the wicked one) be not entred or en<g ref="char:EOLhyphen"/>tertained in any that make mention of the Name of the Lord in a way of ſeparation from the world, for where there is a <hi>Cain,</hi> there will be a Sacrifice, but neither prepared, nor accepted of God, for that Nature and Spirit of <hi>Cain</hi> which is the falſe birth, will preſume to be a worſhipper, but may be known to be a falſe worſhipper as well as a falſe birth, becauſe it's Sacrifice is rejected and not accept<g ref="char:EOLhyphen"/>ed
+<pb n="5" facs="tcp:96763:4"/>of the Lord: Therefore take heed, leaſt there be a <hi>Cain</hi> a<g ref="char:EOLhyphen"/>mongſt you, for when that intrudes into that which is not admitted into by the Lord, but is diſcovered and rejected of God, then it turnes into hatred againſt the ſeed of Faith, which is of God, be<g ref="char:EOLhyphen"/>cauſe God accepts the offering of the ſeed of Faith, and rejects the offering of the wicked principle and Spirit, then that would de<g ref="char:EOLhyphen"/>ſtroy the other, becauſe it's workes are righteous which is of the ſeed of Election, and the works of that is wicked which is of the ſeed of reprobation, and God ſets a mark upon the wicked blood<g ref="char:EOLhyphen"/>thirſty one, that he may take vengeance upon it, for vengeance is mine ſaith the Lord, and I will repay it: Therefore as yee are ac<g ref="char:EOLhyphen"/>quainted with God, both in his merits and in the way of his judge<g ref="char:EOLhyphen"/>ments, and knowes what the mercies of the Lord are unto, and what the judgements of God are againſt, and his wrath is revealed unto; for they that know the terrors of the Lord, cannot but in pitty and great compaſſion beſeech others that they would be re<g ref="char:EOLhyphen"/>conciled unto God, and you that are of the ſeed of Faith, are not onely come but alſo reconciled unto God, and are in the Cove<g ref="char:EOLhyphen"/>nant of Grace, and are anoynted and ſealed of God, and ſuch are appointed to be Heires of ſalvation; and becauſe they are ſo God hath laid hold upon their Hearts by his eternal Spirit, and makes them clear unto him, who hath ſo evidently appeared and made known both himſelf and the way of ſalvation unto them: Oh my dear Friends the Lord is with you in your ſufferings, and doth give you the Teſtimony of his Love unto you, for your re<g ref="char:EOLhyphen"/>freſhment, and of his Power, for your ſtrength and encouragement: So to him I commit and commend you who knows how to order and diſpoſe of you, both for his praiſe and your preſervation, and in the Peace and Love of God I remaine with you, and am</p>
+            <closer>
+               <signed>Your Friend and Brother in a Spiritual Communion and Heavenly relation. R. F.</signed>
+               <date>Written the 17<hi rend="sup">th</hi> of the third moneth, 1665.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:96763:5"/>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>
+               <hi>In the unchangeable truth of the Everlaſting God, who have heard the immediate voice from the excellent Glory, whereby you were called out of darkneſs, and turned to the true Light, who are become followers of the chief Shepherd in the flocks foot ſteps, and whoſe faith ſtands in the power of an end<g ref="char:EOLhyphen"/>leſs life.</hi>
+            </p>
+            <p>I who am your Brother Companion, and fellow traveller through tribulations, a partaker of the like pretious Faith, do wiſh an encreaſe of Grace, Mercy, and Peace, with all other Heavenly ver<g ref="char:EOLhyphen"/>tues, and Spiritual bleſſings to all the ſolemn Aſſemblies of the Saints, and to all the Lords Priſoners, and perſecuted people, even every particular family and friend in the houſhold of Faith, to whom theſe is ſent as a Salutation, and viſible manifeſtation of my unfeigned love; for I am moved, and conſtrained in this day of my confinement to write unto you, ſeeing I cannot verbally declare what is in my heart concerning the great Salvation which hath been ſpoken of among you, and hath appeared unto you, that as a worker together with you by way of remembrance, I may be inſtrumental to ſtir up your pure minds in theſe perilous times, and to provoke you to perſevere in that perſwaſion that cometh of God, and in the practiſe of Chriſtianity now when perſecution ariſeth becauſe of the Word.</p>
+            <p>Dear Friends, deſpiſe not the day of ſmal things, neither ſay, yee in your hearts that the Lord delayes his coming, for the Son of God is come, who hath given you an underſtanding to know the inviſible things of him who is the Creator of all things, and he hath ſown among you that ſeed which is bleſſed, and greater is he that is in you, then he that is in the world, and the Light hath ſhined in your hearts to give unto you the knowledge of the Glory of God, in the face of Jeſus Chriſt. Wherefore Friends, you that have by the Light of the glorious Goſpel, received the knowledge of the onely true God, glorifie him as God, walk as becometh Saints, let your Converſa<g ref="char:EOLhyphen"/>tion be as becometh the Goſpel, worſhip God in the Spirit, and in
+<pb n="7" facs="tcp:96763:5"/>the truth, ſpeak often one to another as the Spirit gives you utter<g ref="char:EOLhyphen"/>ance, and as you are inſtructed by the Inſpiration of the Almighty, and forſake not the Aſſembling of your ſelves together, as the man<g ref="char:EOLhyphen"/>ner of ſome is, whoſe love waxeth cold, whoſe folly is made mani<g ref="char:EOLhyphen"/>feſt, and who goeth out from us, becauſe they are not of us, with whom the Lord is diſpleaſed, and by whom the hands of evil do<g ref="char:EOLhyphen"/>ers are ſtrengthed, and the mouths of gain-ſayers opened, who waites for an occaſion to ſpeak evil of that way in which we worſhip the only true God of our Fathers, according to the practiſe of our Predeceſſors, ſtand faſt therefore in the liberty where Jeſus Chriſt hath made you free, and grieve not the holy Spirit of promiſe, by which you are ſealed unto the day of Redemption, and wait to be inwardly refreſhed, and abundantly ſatisfied in the true ſence and feeling of your inviſible Union, with the Spirits of juſt Men made perfect, and with the Saints in Light, whoſe Names God hath written in his Book of Remembrance, and who are numbred among his Jewels, againſt whom no Weapon that is formed can proſper, nor no Inchantment can prevaile, and Friends, fear not the frowns of them that afflict you, for he that commands the Winds ſets bounds to the Sea, ſaying hitherto ſhalt thou paſs and no farther, and he can reſtrain the wrath and fury of mortal Man in a moment, and turn their hearts as Rivers of Water, that his Saints and Servants may dwell in ſafety from him that puffeth at them, for a Sparrow cannot fall to the ground without your Heavenly Fathers permiſſi<g ref="char:EOLhyphen"/>on, and ſurely the leaſt among you is of much more vallue then many ſparrows; Oh therefore faint not in the day of adverſity, nor fear none of the things that you muſt ſuffer for truth and Righte<g ref="char:EOLhyphen"/>ouſneſs ſake, but rejoyce rather in as much as you are made par<g ref="char:EOLhyphen"/>takers of Chriſts ſufferings, who for the joy that was ſet befo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e him indured the Croſs, and deſpiſed the ſhame, whoſe reproaches are greater riches then the treaſures of the Kingdomes of this World, and the pleaſure of ſin which is but for a ſeaſon.</p>
+            <p>And dear Friends forget not the wonders which the right hand of the Lord hath brought to paſs in order to your deliverance out of the Land of <hi>Egypt,</hi> and the works which he hath wrought for you ſince the day of your Infancy in the Immortal life, and his ten<g ref="char:EOLhyphen"/>der mercies from time to time, towards you his little flock; hath not he divided the Waters of the Sea, and prepared you a high way through the Wilderneſs, and how ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h he carried you in his armes,
+<pb n="8" facs="tcp:96763:6"/>and upholden you by the right hand of his Righteouſneſs, when you were young and tender, and under many temptations, and tryals of cruel mockings, when you had no certain abiding place, nor no City to dwell in, when you were ſet as ſignes and wonders among your Kinsfolks, and former familiers, and could not follow the multitude to do evil, nor ran with the World into exceſs of ryot as formerly. How hath he fed you with the Milk of the Word, and refreſhed your Souls with the water of Life, from the Wells of Salvation; how hath he drawn you as with the cords of a man, and brought you in<g ref="char:EOLhyphen"/>to his Banqueting houſe, where his banner over you is love, where the light of his Candle hath ſhined on your heads, and his ſecret upon your Tabernacle. Hath not he ſpread his skirts over you, and put beautiful Garments on you, and choſen you out of the World, and entred into a Covenant with you, that you may ſerve God ac<g ref="char:EOLhyphen"/>ceptably in your Generation as a people ſaved by him, and choſen to publiſh his Name to the Nations, who is perfecting his praiſe out of the mouths of Babes, that no fleſh may glory in his Preſence: Oh how hath the Spirit of the Father ſpoken through many of you, who are the weak things of the World in the defence and vindicati<g ref="char:EOLhyphen"/>on of truth when called before Rulers, and judgment ſeats, where you have been called to confeſs Chriſt before Men, and to contend for the faith once delivered to the Saints; and how often have you ſeen the arm of the Lord revealed, and his hand ſtretched out for your deliverance out of the dark Dungeons, Dens, Caves, and naſty holes of the earth, unto which you have been expoſed for your Re<g ref="char:EOLhyphen"/>ligion and Righteouſneſs ſake, in the day of your Pilgrimage upon the Earth.</p>
+            <p>Let theſe experimental Confiderations confirm your confidence, and ſtrengthen your faith and patience, and provoke you to perſe<g ref="char:EOLhyphen"/>verance in that perſwaſion which cometh of God. And dearly be<g ref="char:EOLhyphen"/>loved, being compaſſed about with ſo great a Cloud of witneſſes that in former ages, and in theſe laſt dayes have ſuſtained great ſuf<g ref="char:EOLhyphen"/>ferings for the name of Chriſt, think it not ſtrange concerning the fiery tryals and perſecutions which you do, or may endure, as if ſome ſtrange accident or new thing had hapned in your dayes for the try<g ref="char:EOLhyphen"/>al of your faith, patience, and principles, is very pretious, and all theſe things are working for you a far more exceeding and eternal weight of glory then either eye hath ſeen, or eare hath heard, or hath ever entred into the heart of Man to conceive, for we know that all
+<pb n="9" facs="tcp:96763:6" rendition="simple:additions"/>things ſhall work together for good to them that love the Lord Je<g ref="char:EOLhyphen"/>ſus in ſincerity and truth; And Friends, let none think worſe of the way in which we worſhip the only true God of our Fathers, becauſe wicked Men deſires not the knowledge of it, for truth is as precious as ever, and the eye of the Lord is over his People in all their Tryals, and he is with them in all their Tribulations, and in all their afflictions he is afflicted, and whoſoever toucheth them toucheth the Apple of his Eye, and his Eare is attentive to the Cry of the Poor, the ſighs of the needy, and the groanes of the Priſon<g ref="char:EOLhyphen"/>ers, and the ſupplication of the ſouls under the Alter hath entred within the vaile, and the Cry of the Oppreſſed is come before the God of the whole Earth, who will not alwayes keep ſilence and ſuffer the rod of the wicked to lye upon the lot of the righteous, for it is a righteous thing with the Lord to recompence Tribulation to the Troublers and Perſecuters of his People, and to you that are troubled, reſt and peace, and refreſhment, and everlaſting conſolation, when he cometh to be glorified in his Saints, and to be admired of all them that know him, and let not the Tryal of cruel mocking, ſpoyling of goods, bonds, nor baniſhment fright you, for the Lord whom you ſerve is God of the whole Earth, and the Angel of his Preſence which is with you to guide you and pre<g ref="char:EOLhyphen"/>ſerve you in the Land of your nativity, will be with you in the vaſt howling Wilderneſs, and in the Iſlands afar of, to direct your ſteps, and to adminiſter unto all you who are heires of eternal ſalvation ſuch neceſſary accomodations as is convenient and ſutable at all ſea<g ref="char:EOLhyphen"/>ſons, for he feeds the Ravens and cloatheth the Lillies and takes care for Oxen, and opens Springs in the Deſert where the wild Aſſes quench their thirſt, and will he not much more manifeſt his Fatherly care, and kindneſs unto you who are his peculiar treaſure, and of more value then the Cattle upon a thouſand Hills.</p>
+            <p>So Friends manifeſt your mindfulneſs o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eternal Inheritance by your faithfulneſs to the Lord in your <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>blick Teſtimony, whe<g ref="char:EOLhyphen"/>ther it be by doing, or ſuffering, that wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Teſtimony is fini<g ref="char:EOLhyphen"/>ſhed an entrance may be adminiſtred unto you, into that Eternal Inheritance which fadeth not away.</p>
+            <closer>
+               <signed>Thomas Salthouſe.</signed>
+               <dateline>White-Lyon Priſon <hi>Southwark.</hi> 
+                  <date>the 3d. Moneth 1665.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:96763:7"/>
+            <pb facs="tcp:96763:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
